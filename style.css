@@ -1,0 +1,127 @@
+body {
+  margin:0px;
+  padding: 0px;
+}
+
+nav {
+  background-color: #7cc583;
+  position: sticky;
+  top: 0px;
+
+}
+
+.header-section {
+  background-color: #33983D;
+  text-align: center;
+  font-size: 30px;
+}
+.button:hover {
+  background-color: rgb(197, 188, 188);
+  color:black;
+}
+li:hover {
+  background-color: white;
+  color:black;
+}
+
+a:hover {
+  color: black;
+}
+
+h1 {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  fontsize:40px;
+}
+ul {
+  list-style: none;
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  padding: 15px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.anchor {
+  height: 175px;
+  width: 175px;
+}
+
+.teacup {
+  height:175px;
+  width: 175px;
+}
+
+h3 {
+  background-color: black;
+  color: white;
+  
+}
+
+.button {
+  background-color: black;
+  color: aliceblue;
+  display: inline-block;
+  padding: 20px;
+  transition: 0.3s;
+}
+.quote {
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 35px;
+  padding: 50px;
+}
+
+.flex1 {
+  display: flex ;
+
+}
+
+.greytext {
+  color: rgb(138, 138, 138);
+  
+}
+
+.paragraph {
+  font-size: 20px;
+}
+
+.image {
+  text-align: center;
+  font-size: 35px;
+  margin: 40px;
+  transition: 0.3s;
+}
+
+.who {
+  text-align: center;
+  font-size: 15px;
+}
+
+.fa-brands:hover {
+  color: lightgrey;
+}
+
+.flex2 {
+  display: flex ;
+
+}
+.section1 {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+.section2 {
+  padding-left: 300px;
+  padding-right: 300px;
+  background-color: lightgrey;
+}
